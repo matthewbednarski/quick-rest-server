@@ -1,0 +1,19 @@
+{
+  "name": "quick-rest-server",
+  "version": "0.0.1",
+  "description": "An easy to setup rest serv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthewbednarski/quick-rest-server"
+  },
+  "author": "Matthew Bednarski",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/matthewbednarski/quick-rest-server/issues"
+  },
+  "homepage": "https://github.com/matthewbednarski/quick-rest-server"
+}
