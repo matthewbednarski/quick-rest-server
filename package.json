@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/matthewbednarski/quick-rest-server/issues"
   },
-  "homepage": "https://github.com/matthewbednarski/quick-rest-server"
+  "homepage": "https://github.com/matthewbednarski/quick-rest-server",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "yargs": "^3.0.4"
+  },
+  "dependencies": {
+    "fs": "0.0.2",
+    "lodash": "^3.2.0",
+    "restify": "^2.8.5",
+    "yargs": "^3.0.4"
+  }
 }
