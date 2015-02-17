@@ -1,5 +1,5 @@
 {
-  "name": "quick-rest",
+  "name": "quick-rest-server",
   "version": "1.0.0",
   "description": "a quick test REST backend",
   "main": "lib/index.js",
