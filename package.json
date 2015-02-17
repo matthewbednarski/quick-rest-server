@@ -1,0 +1,26 @@
+{
+  "name": "quick-rest",
+  "version": "1.0.0",
+  "description": "a quick test REST backend",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "author": "Matthew Carl Bednarski",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.1.0",
+    "moment": "^2.9.0",
+    "node-uuid": "^1.4.2",
+    "q": "^1.1.2",
+    "restify": "^2.8.5",
+    "save": "^2.0.0",
+    "yargs": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
