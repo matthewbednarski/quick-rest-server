@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "quick-rest",
   "version": "1.0.0",
   "description": "a quick test REST backend",
@@ -10,8 +9,16 @@
   "scripts": {
     "start": "node lib/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthewbednarski/quick-rest-server"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewbednarski/quick-rest-server/issues"
+  },
+  "homepage": "https://github.com/matthewbednarski/quick-rest-server",
   "author": "Matthew Carl Bednarski",
-  "license": "ISC",
+  "license": "Apache License 2.0",
   "dependencies": {
     "lodash": "^3.1.0",
     "moment": "^2.9.0",
@@ -23,33 +30,5 @@
   },
   "devDependencies": {
     "gulp": "^3.8.11"
-=======
-  "name": "quick-rest-server",
-  "version": "0.0.1",
-  "description": "An easy to setup rest serv",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/matthewbednarski/quick-rest-server"
-  },
-  "author": "Matthew Bednarski",
-  "license": "Apache License 2.0",
-  "bugs": {
-    "url": "https://github.com/matthewbednarski/quick-rest-server/issues"
-  },
-  "homepage": "https://github.com/matthewbednarski/quick-rest-server",
-  "devDependencies": {
-    "gulp": "^3.8.11",
-    "yargs": "^3.0.4"
-  },
-  "dependencies": {
-    "fs": "0.0.2",
-    "lodash": "^3.2.0",
-    "restify": "^2.8.5",
-    "yargs": "^3.0.4"
->>>>>>> dc377e0bad8b1eafe547b6212f9af0bb1683a5cf
   }
 }
