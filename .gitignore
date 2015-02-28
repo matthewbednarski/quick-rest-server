@@ -1,5 +1,5 @@
 
-node_modules
+node_modules/
 .*
 
 .hg
@@ -7,6 +7,4 @@ node_modules
 
 logs
 *.log
-
-
-node_modules
+*.json
